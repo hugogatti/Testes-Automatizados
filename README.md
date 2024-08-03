@@ -1,3 +1,3 @@
 # Testes-Automatizados
 
-Criando Funções para testes
+Criando Funções para testes unitarios básicos.
